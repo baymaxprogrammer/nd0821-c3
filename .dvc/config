@@ -2,3 +2,5 @@
     remote = storage
 ['remote "storage"']
     url = s3://myherukobucket
+    profile = default
+    region = us-east-1
