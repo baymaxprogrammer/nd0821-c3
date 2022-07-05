@@ -42,7 +42,7 @@ jobs:
       uses: aws-actions/configure-aws-credentials@v1
       with:
         role-to-assume: arn:aws:iam::878121003589:user/ehsan
-        aws-region: eu-central-1
+        aws-region: us-east-1
     - name: Setup DVC
       uses: iterative/setup-dvc@v1
     - name: Pull data from DVC
