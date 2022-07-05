@@ -43,7 +43,7 @@ jobs:
       uses: aws-actions/configure-aws-credentials@master
       with:
         aws-region: us-east-1
-        role-to-assume: arn:aws:iam::878121003589:user/ehsan
+#         role-to-assume: arn:aws:iam::878121003589:user/ehsan
         aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-session-token: ${{secrets.AWS_SESSION_TOKEN}}
