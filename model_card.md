@@ -3,17 +3,23 @@
 For additional information see the Model Card paper: https://arxiv.org/pdf/1810.03993.pdf
 
 ## Model Details
-This model is based on a randomforest classifier and uses the following categorical features to determine the salary of 
+This model is based on a randomforest classifier and uses the following features to determine the salary of 
 a person is more than 50k or not:
 
-* "workclass"
-* "education"
-* "marital-status"
-* "occupation"
-* "relationship"
-* "race"
-* "sex"
-* "native-country"
+* age
+* workclass
+* fnlgt
+* education
+* education-num
+* marital-status
+* occupation
+* relationship
+* race
+* sex
+* capital-gain
+* capital-loss
+* hours-per-week
+* native-country
 
 
 ## Intended Use
