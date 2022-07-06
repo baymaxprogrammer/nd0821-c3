@@ -1,5 +1,6 @@
 [core]
     remote = storage
+    no_scm = true
 ['remote "storage"']
     url = s3://myherukobucket
     profile = default
