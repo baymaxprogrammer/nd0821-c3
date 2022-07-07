@@ -1,6 +1,5 @@
 # Model Card for Deploying a Machine Learning Model on Heroku with FastAPI
 
-
 For additional information see the Model Card paper: https://arxiv.org/pdf/1810.03993.pdf
 
 ## Model Details
