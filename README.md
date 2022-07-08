@@ -1,4 +1,4 @@
-# CI/CD using SIT, FASTapi and Heroku projetc
+# CI/CD using GIT, FASTapi and Heroku projetc
 
 ## Link to the git: https://github.com/baymaxprogrammer/nd0821-c3
 ## Link to the app: https://udacity-deploy-pred.herokuapp.com/
